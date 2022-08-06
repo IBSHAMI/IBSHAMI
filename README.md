@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 Tech stack I usually work with:
 
-Django + DRF
-Pytorch 
-Tensorflow 
-Pandas 
-Numpy
+- Django + DRF
+- Pytorch 
+- Tensorflow 
+- Pandas 
+- Numpy
