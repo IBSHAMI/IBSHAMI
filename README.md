@@ -20,4 +20,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on developing SAAS web app utilizing ML/AI to provide services. 
 - 🤔 I’m looking for help with ideas and colla
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ibrahim-al-shami-9945b81b9/){:target="\_blank"}
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ibrahim-al-shami-9945b81b9/)
+
+
+Tech stack I usually work with:
+
+Django + DRF
+Pytorch 
+Tensorflow 
+Pandas 
+Numpy
