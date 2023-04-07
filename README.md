@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js and imporving my skills in Django Rest Framework.
 - 👯 I’m looking to collaborate on developing SAAS web app utilizing ML/AI to provide services. 
 - 🤔 I’m looking for help with ideas and collabriations 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ibrahim-al-shami-9945b81b9/)
 
 
 Tech stack I usually work with:
