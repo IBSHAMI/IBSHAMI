@@ -26,7 +26,5 @@ Tech stack I usually work with:
 
 - Django + DRF
 - Vue,js
-- Pytorch 
-- Tensorflow 
 - Pandas 
 - Numpy
